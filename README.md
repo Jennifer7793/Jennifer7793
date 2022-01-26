@@ -3,6 +3,8 @@
 - 🔭 Newbie in Ruby on Rails　Rails的菜鳥新手
 - 🌱 I’m currently learning coding　正在學習寫程式
 - 📨 [Yimail](https://yimails.com) This is my 1st project with my classmates　[Yimail免費電子郵件信箱](https://yimails.com) 這是我第一個和同學一起合作的專案
+- 👀 [Demo day](https://www.youtube.com/watch?v=xovaoTHCiaM)　[直擊專案發表現場](https://www.youtube.com/watch?v=xovaoTHCiaM)
+- 📋 [Judges' review](https://www.youtube.com/watch?v=6VUF0bmSf7o)　[評審講評](https://www.youtube.com/watch?v=6VUF0bmSf7o) 
 - 💼 Hope to get offer after CNY　希望年後順利找到工作，轉職工程師
 #### Connect with me:
 [<img align="left" alt="https://www.facebook.com/jennifer.lin.5030" width="22px" src="https://user-images.githubusercontent.com/92965935/150644540-55ae2434-2ae1-4711-b67d-1827740689b5.png" />](https://www.facebook.com/jennifer.lin.5030)
