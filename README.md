@@ -5,7 +5,7 @@
 - 📨 [Yimail](https://yimails.com) is my 1st project with my classmates　[Yimail免費電子郵件信箱](https://yimails.com) 是我第一個和同學一起合作的專案
 - 👀 [Demo day](https://www.youtube.com/watch?v=xovaoTHCiaM)　[直擊專案發表現場](https://www.youtube.com/watch?v=xovaoTHCiaM)
 - 📋 [Judges' review](https://www.youtube.com/watch?v=6VUF0bmSf7o)　[評審講評](https://www.youtube.com/watch?v=6VUF0bmSf7o) 
-- 💼 Hope to get offer after CNY　希望年後順利找到工作，轉職工程師
+- 💼 Fake it till you make it! Fake it till you become it!
 #### Connect with me:
 [<img align="left" alt="https://www.facebook.com/jennifer.lin.5030" width="22px" src="https://user-images.githubusercontent.com/92965935/150644540-55ae2434-2ae1-4711-b67d-1827740689b5.png" />](https://www.facebook.com/jennifer.lin.5030)
 [<img align="left" alt="https://www.instagram.com/jennifer7793/" width="22px" src="https://user-images.githubusercontent.com/92965935/150644531-3705291e-a9b7-4a85-8362-7cb4078762e9.png" />](https://www.instagram.com/jennifer7793/)
